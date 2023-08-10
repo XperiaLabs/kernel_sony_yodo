@@ -1,0 +1,13 @@
+obj-y	+= adux1050/
+obj-y	+= battchg_ext/
+obj-y	+= battman_dbg/
+obj-y	+= bu520x1nvx/
+obj-y	+= camera_sync/
+obj-y	+= cirrus_cs35l41/
+obj-y	+= cirrus_cs40l2x/
+obj-y	+= cirrus_cs40l2x_codec/
+obj-y	+= hdmi_detect/
+obj-y	+= ldo_vibrator/
+obj-y	+= lxs_ts/
+obj-y	+= slg51000_regulator/
+obj-y	+= sony_camera/
