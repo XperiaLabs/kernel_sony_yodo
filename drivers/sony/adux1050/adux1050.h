@@ -309,8 +309,8 @@
 
 #endif
 
-#define TRUE				(1)
-#define FALSE				(0)
+#define ADUX_TRUE				(1)
+#define ADUX_FALSE				(0)
 /**to convert proxy time units to seconds*/
 #define PROXY_TIME		(1000)
 
