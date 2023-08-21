@@ -1152,7 +1152,7 @@ export MODULES_NSDEPS := $(extmod_prefix)modules.nsdeps
 
 PHONY += headers
 
-ext-mod-dir := ../sm8550-modules
+ext-mod-dir := ../yodo-modules
 ext-mod-dirs := $(ext-mod-dir)/qcom/audio $(ext-mod-dir)/qcom/display $(ext-mod-dir)/qcom/video $(ext-mod-dir)/nxp/driver
 ext-mod-dirs := $(subst $(srctree)/,,$(ext-mod-dirs))
 
